@@ -32,7 +32,8 @@
 [![Credly Badge](https://img.shields.io/badge/Credly-GCP%20Certified-green)](https://www.credly.com/badges/0033fcdd-beff-4cd8-b35f-a8fa909830fd/public_url)
 
 ---
-
+[![OSSRank](https://ossrank.com/widget/1025820)](https://ossrank.com/c/1025820-arvindp25) 
+---
 📍 Based in Bengaluru, India  
 📧 [arvind2512patel@gmail.com](mailto:arvind2512patel@gmail.com)
 
